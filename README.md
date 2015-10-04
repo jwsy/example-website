@@ -2,7 +2,7 @@
 
 ## AKA What to do after finishing Codecademy Web Design
 
-This is a tutorial on what to do once you've finished building a website in the fantastic <a href="https://www.codecademy.com/en/skills/make-a-website" target="_blank">Codecademy tutorials</a> and want to make your own web pages and limited apps. __This tutorial specifically describes how to set up a website hosted by GitHub using the Github Desktop GUI in OSX.__
+This is a tutorial on what to do once you've finished building a website in the fantastic <a href="https://www.codecademy.com/en/skills/make-a-website" target="_blank">Codecademy tutorials</a> and want to make your own web pages and limited apps. __This tutorial specifically describes how to set up a website hosted by GitHub using the Github Desktop GUI in OSX, though everything should look about the same in Windows.__
 
 ### Prerequisites
 * Know the fundamentals of web design, HTML, CSS, and JS from Codecademy or another course
