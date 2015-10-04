@@ -42,3 +42,13 @@ Congratulations, you're ready to start building your webpage!
 1. Once you've cloned the repo, click the branch button and create a new branch named _gh-pages_ -- this name is important and more detail about this can be found in the [GitHub Pages documentation](https://pages.github.com/).
 
   <img src="images/create-gh-pages.png" width="400">
+
+1. In GitHub Desktop, edit your repo in your text editor Atom by right-clicking the repo and selecting Open in Atom. Be sure that the repo you're working on is gh-pages as shown in the upper-right of the below image.
+
+  <img src="images/open-atom.png" width="400">
+
+1. In Atom, create an index.html file by right-clicking the repo name and selecting _New File_, and name the file _index.html_. This is just like what you did in Codecademy!
+
+  <img src="images/new-file.png" width="300">
+
+  <img src="images/create-index-html.png" width="400">
