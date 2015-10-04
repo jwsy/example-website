@@ -77,6 +77,63 @@ Congratulations, you're ready to start building your webpage! :smile:
 
 ### Host your page in GitHub Pages
 
-1. Now that you've got a working page in your repo, make a commit and push it to GitHub where it will be hosted. To do this, go back to GitHub Desktop, enter a commit message like "Create index.html" and click the _Commit to gh-pages_ button.
+1. Now that you've got a working page in your repo, make a commit and push it to GitHub where it will be hosted. To do this, go back to GitHub Desktop, enter a commit message like "Create index.html" and click the _Commit to gh-pages_ button -- it's important to make sure you're committing to _gh-pages_. Then click the _Sync_ button in the upper right to copy your repo to GitHub Pages.
 
   <img src="images/first-commit.png" width="400">
+
+1. Visit your project site at https://github.com/YOUR_USERNAME/example-website. If you change the branch from _master_ to _gh-pages_, you should see the files you've committed.
+
+  <img src="images/switch-branch.png" width="200">
+
+  <img src="images/hosted1.png" width="400">
+
+1. Finally, view your page at http://YOUR_USERNAME.github.io/example-website (mine is [http://jwsy.github.io/example-website](http://jwsy.github.io/example-website)) -- congratulations! :smile:
+
+  <img src="images/hosted-ghp.png" width="400">
+
+### Update your website
+
+1. Go back to Atom and add a _css_ folder for CSS and a _style.css_ stylesheet for your page.
+
+  To add the folder, right-click below the files in the left pane.
+
+  <img src="images/new-folder.png" width="200">
+
+  <img src="images/css-folder.png" width="400">
+
+1. Right-click the new _css_ folder and create a _style.css_ file.
+
+  <img src="images/style-file-add.png" width="400">
+
+1. Edit _style.css_ to add some color to the page, just like how you did in Codecademy. See my papayawhip example [here](https://github.com/jwsy/example-website/blob/master/css/style.css).
+
+  <img src="images/style-edit.png" width="400">
+
+1. Edit _index.html_ and add a link to the stylesheet you just added. In this example, I add:
+```html
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+```
+
+  <img src="images/add-link-to-index.png" width="400">
+
+1. View your local website the same way you did before by selecting _Show in Finder_ and opening the file in your browser. Mine looked like this, and note the URL that starts with "file:///"
+
+  <img src="images/local2.png" width="400">
+
+1. Go back to GitHub Desktop and take a look at how it's tracked    your changes. You should see your stylesheet and HTML as the two changes.
+
+  Like before, add a commit message, click the _Commit to gh-pages_ button, and click the _Sync_ button.
+
+  If you want to make more changes, follow the same workflow of editing locally, committing, and syncing.
+
+  <img src="images/last-commit.png" width="400">
+
+1. Go to your project site on GitHub, visit the gh-pages branch, and make sure that your new CSS folder and updated index page are there.
+
+  <img src="images/gh-after-commit.png" width="400">
+
+  And finally, visit your updated page with your updated code.
+
+  <img src="images/final-host.png" width="400">
+
+Congratulations: you've made your own simple website and hosted it in GitHub Pages using the skills you've learned at Codecademy! :smile:
