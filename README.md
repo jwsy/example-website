@@ -37,9 +37,9 @@ We'll start by setting up a your "development environment" and then creating and
 
 Congratulations, you're ready to start building your webpage! :smile:
 
-### Writing some code
+### Create your local webpage
 
-1. Once you've cloned the repo, click the branch button and create a new branch named _gh-pages_ -- this name is important and more detail about this can be found in the [GitHub Pages documentation](https://pages.github.com/).
+1. Once you've cloned the repo to your computer, let's build a local webpage stored on your computer. Click the branch button and create a new branch named _gh-pages_ -- this name is important and more detail about this can be found in the [GitHub Pages documentation](https://pages.github.com/).
 
   <img src="images/create-gh-pages.png" width="400">
 
@@ -57,7 +57,7 @@ Congratulations, you're ready to start building your webpage! :smile:
 
   <img src="images/create-index-html.png" width="500">
 
-1. Add in your basic HTML to _index.html_. This should feel just like the Codecademy coding "IDE" (Interactive Development Environment) except now you're out of a browser and creating an actual file on your computer.
+1. Add in your basic HTML to _index.html_. This should feel just like the Codecademy coding "IDE" (Interactive Development Environment) except now you're out of a browser and creating an actual file on your computer. You can copy the one I used in the example from [here](https://github.com/jwsy/example-website/blob/99509e2b6c1adc8bb959b2cf239a2a3047a7a493/index.html):
 
   <img src="images/index-html.png" width="400">
 
@@ -69,8 +69,14 @@ Congratulations, you're ready to start building your webpage! :smile:
 
   <img src="images/in-finder.png" width="200">
 
-  Double-clicking the index.html file should open it up in a web browser where you can see your code rendered.
+  Double-clicking the _index.html_ file should open it up in a web browser where you can see your code rendered like it would be if you were to host it on the internet.
 
-  
+  <img src="images/browser-local1.png" width="400">
 
-1.
+  Try making more changes to _index.html_ and refreshing your browser.
+
+### Host your page in GitHub Pages
+
+1. Now that you've got a working page in your repo, make a commit and push it to GitHub where it will be hosted. To do this, go back to GitHub Desktop, enter a commit message like "Create index.html" and click the _Commit to gh-pages_ button.
+
+  <img src="images/first-commit.png" width="400">
