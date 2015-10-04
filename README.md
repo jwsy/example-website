@@ -110,9 +110,10 @@ Congratulations, you're ready to start building your webpage! :smile:
   <img src="images/style-edit.png" width="400">
 
 1. Edit _index.html_ and add a link to the stylesheet you just added. In this example, I add:
-```html
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-```
+  
+  ```html
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  ```
 
   <img src="images/add-link-to-index.png" width="400">
 
