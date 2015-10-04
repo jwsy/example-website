@@ -35,7 +35,7 @@ We'll start by setting up a your "development environment" and then creating and
 
   <img src="images/clone-repo.png" width="500">
 
-Congratulations, you're ready to start building your webpage!
+Congratulations, you're ready to start building your webpage! :smile:
 
 ### Writing some code
 
@@ -45,10 +45,32 @@ Congratulations, you're ready to start building your webpage!
 
 1. In GitHub Desktop, edit your repo in your text editor Atom by right-clicking the repo and selecting Open in Atom. Be sure that the repo you're working on is gh-pages as shown in the upper-right of the below image.
 
-  <img src="images/open-atom.png" width="400">
+  <img src="images/open-atom.png" width="200">
 
-1. In Atom, create an index.html file by right-clicking the repo name and selecting _New File_, and name the file _index.html_. This is just like what you did in Codecademy!
+  You should see Atom like this, and note the location in the window title. The location should look like _/Users/<username>/GitHub/example-website_
 
-  <img src="images/new-file.png" width="300">
+  <img src="images/atom-opened.png" width="400">
 
-  <img src="images/create-index-html.png" width="400">
+1. In Atom, create an index.html file by right-clicking the repo name and selecting _New File_, and name the file _index.html_.
+
+  <img src="images/new-file.png" width="200">
+
+  <img src="images/create-index-html.png" width="500">
+
+1. Add in your basic HTML to _index.html_. This should feel just like the Codecademy coding "IDE" (Interactive Development Environment) except now you're out of a browser and creating an actual file on your computer.
+
+  <img src="images/index-html.png" width="400">
+
+  Keen eyed readers will notice that I missed the closing '>' in my title tag. It doesn't change anything in the tutorial, but good eye :+1:
+
+1. You can view this actual file on your computer by right-clicking the _index.html_ file and selecting "Show in Finder"
+
+  <img src="images/show-in-finder.png" width="200">
+
+  <img src="images/in-finder.png" width="200">
+
+  Double-clicking the index.html file should open it up in a web browser where you can see your code rendered.
+
+  
+
+1.
