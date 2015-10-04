@@ -1,9 +1,14 @@
 # example-website
-This is a tutorial on what to do once you've finished building a website in the fantastic <a href="https://www.codecademy.com/en/skills/make-a-website" target="_blank">Codecademy tutorials</a> and want to make your own web pages and limited apps. This tutorial specifically describes how to set up a website hosted by GitHub using the Github Desktop GUI in OSX.
+
+## AKA What to do after finishing Codecademy Web Design
+
+This is a tutorial on what to do once you've finished building a website in the fantastic <a href="https://www.codecademy.com/en/skills/make-a-website" target="_blank">Codecademy tutorials</a> and want to make your own web pages and limited apps. __This tutorial specifically describes how to set up a website hosted by GitHub using the Github Desktop GUI in OSX.__
 
 ### Prerequisites
+* Know the fundamentals of web design, HTML, CSS, and JS from Codecademy or another course
 * Register for and setup a GitHub account at <a href="https://github.com" target="_blank">https://github.com</a>
-* Install the <a href="https://atom.io" target="_blank">Atom text editor</a>
+* Install the <a href="https://atom.io" target="_blank">Atom text editor</a>, "_a hackable text editor
+for the 21st Century_"
 * Install <a href="https://atom.io" target="_blank">GitHub Desktop</a>, "_a seamless way to contribute to projects on GitHub and GitHub Enterprise._"
 
 ### Overview
@@ -135,6 +140,10 @@ Congratulations, you're ready to start building your webpage! :smile:
 
   And finally, visit your updated page with your updated code.
 
-  <img src="images/final-host.png" width="600">
+  <img src="images/final-host.png" width="500">
 
-Congratulations: you've made your own simple website and hosted it in GitHub Pages using the skills you've learned at Codecademy! :smile:
+  Get into the console View -> Developer -> JavaScript Console and see that you can do JQuery selectors and actions.
+
+  <img src="images/end-jq.png" width="600">
+
+Congratulations: you've made your own simple website using the skills you've learned at Codecademy and hosted it in GitHub Pages! :smile:
